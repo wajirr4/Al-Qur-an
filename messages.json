@@ -1,0 +1,4 @@
+{
+    "start":"Assalamu'alaikum\nWelcome to the Quran browsing bot. This bot is an ongoing charity for me and you.\nI hope you will publish the bot\nTo see the source, send /repo \nFor commands type /help",
+    "help":"Through this bot you can open the Qur'an by sending:\n🌟 Command /open \nAnd you can open a specific page by sending \n🌟 go to page <page number>\nAnd you can retrieve a specific page by sending \n🌟 fetch page <page number>"
+}
